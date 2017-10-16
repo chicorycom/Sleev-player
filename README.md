@@ -5,7 +5,7 @@ Video.js 6.3.3
 ```html
 <script src="dist/sleev.js"></script>
 
-<video id="play" class="sleev"></video>
+<video id="play" class="sleev" ></video>
 
 <script>
 var Player = videojs('play',{ 
