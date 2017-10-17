@@ -7,7 +7,7 @@ _Sleev-player [Download][Download]_
 ### Quick Start
 
 ```html
-<script src="dist/sleev.js"></script>
+<script src="sleev.js"></script>
 
 <video id="play" class="sleev" ></video>
 
