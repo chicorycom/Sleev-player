@@ -1,5 +1,6 @@
 # Sleev-player
 Video.js 6.3.3
+[Download]: https://github.com/maluklo/Sleev-player/releases
 ### Quick Start
 
 ```html
