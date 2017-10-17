@@ -5,7 +5,7 @@ _Sleev-player [Download][Download]_
 [Download]: https://github.com/maluklo/Sleev-player/releases
 <img src="https://raw.githubusercontent.com/maluklo/Sleev-player/master/sleev%20player.png">
 ### Quick Start
-
+Included videojs-panorama, videojs-contrib-hls, videojs-resolution-switcher.
 ```html
 <script src="sleev.js"></script>
 
